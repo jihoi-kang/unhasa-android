@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Text Style -->
+    <style name="TextTheme_Regular_12" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">@color/black</item>
+        <item name="font">@font/notosans_kr_regular</item>
+        <item name="android:textSize">@dimen/text_12</item>
+        <item name="android:lineSpacingExtra">@dimen/text_12_line_spacing</item>
+    </style>
+
+    <style name="TextTheme_Regular_14" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">@color/black</item>
+        <item name="font">@font/notosans_kr_regular</item>
+        <item name="android:textSize">@dimen/text_14</item>
+        <item name="android:lineSpacingExtra">@dimen/text_14_line_spacing</item>
+    </style>
+
+    <style name="TextTheme_Regular_16" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">@color/black</item>
+        <item name="font">@font/notosans_kr_regular</item>
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:lineSpacingExtra">@dimen/text_16_line_spacing</item>
+    </style>
+
+    <style name="TextTheme_Regular_18" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">@color/black</item>
+        <item name="font">@font/notosans_kr_regular</item>
+        <item name="android:textSize">@dimen/text_18</item>
+        <item name="android:lineSpacingExtra">@dimen/text_18_line_spacing</item>
+    </style>
+
+    <style name="TextTheme_Regular_20" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">@color/black</item>
+        <item name="font">@font/notosans_kr_regular</item>
+        <item name="android:textSize">@dimen/text_20</item>
+        <item name="android:lineSpacingExtra">@dimen/text_20_line_spacing</item>
+    </style>
+
+    <style name="TextTheme_Medium_12" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">@color/black</item>
+        <item name="font">@font/notosans_kr_medium</item>
+        <item name="android:textSize">@dimen/text_12</item>
+        <item name="android:lineSpacingExtra">@dimen/text_12_line_spacing</item>
+    </style>
+
+    <style name="TextTheme_Medium_14" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">@color/black</item>
+        <item name="font">@font/notosans_kr_medium</item>
+        <item name="android:textSize">@dimen/text_14</item>
+        <item name="android:lineSpacingExtra">@dimen/text_14_line_spacing</item>
+    </style>
+
+    <style name="TextTheme_Medium_16" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">@color/black</item>
+        <item name="font">@font/notosans_kr_medium</item>
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:lineSpacingExtra">@dimen/text_16_line_spacing</item>
+    </style>
+
+    <style name="TextTheme_Medium_18" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">@color/black</item>
+        <item name="font">@font/notosans_kr_medium</item>
+        <item name="android:textSize">@dimen/text_18</item>
+        <item name="android:lineSpacingExtra">@dimen/text_18_line_spacing</item>
+    </style>
+
+    <style name="TextTheme_Medium_20" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">@color/black</item>
+        <item name="font">@font/notosans_kr_medium</item>
+        <item name="android:textSize">@dimen/text_20</item>
+        <item name="android:lineSpacingExtra">@dimen/text_20_line_spacing</item>
+    </style>
+
+    <style name="TextTheme_Medium_24" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">@color/black</item>
+        <item name="font">@font/notosans_kr_medium</item>
+        <item name="android:textSize">@dimen/text_24</item>
+        <item name="android:lineSpacingExtra">@dimen/text_24_line_spacing</item>
+    </style>
+
+    <!-- Button Style -->
+    <style name="ButtonTheme" parent="android:Widget.Holo.Light.Button">
+        <item name="android:background">@drawable/bg_blue_gray</item>
+        <item name="android:textViewStyle">@style/TextTheme_Medium_12</item>
+        <item name="android:maxWidth">328dp</item>
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <!-- EditText -->
+    <style name="EditTextTheme" parent="Widget.AppCompat.EditText">
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:textCursorDrawable">@color/blue_gray_700</item>
+        <item name="android:layout_margin">-1dp</item>
+        <item name="colorControlNormal">@color/black</item>
+        <item name="colorControlActivated">@color/black</item>
+        <item name="font">@font/notosans_kr_regular</item>
+    </style>
+
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Space -->
+    <dimen name="space_xx_small">4dp</dimen>
+    <dimen name="space_x_small">6dp</dimen>
+    <dimen name="space_small">8dp</dimen>
+    <dimen name="space_median">12dp</dimen>
+    <dimen name="space_large">16dp</dimen>
+    <dimen name="space_x_large">20dp</dimen>
+    <dimen name="space_xx_large">24dp</dimen>
+
+    <!-- Text -->
+    <dimen name="text_12">12dp</dimen>
+    <dimen name="text_14">14dp</dimen>
+    <dimen name="text_16">16dp</dimen>
+    <dimen name="text_18">18dp</dimen>
+    <dimen name="text_20">20dp</dimen>
+    <dimen name="text_24">24dp</dimen>
+
+    <!-- Text LineSpacing -->
+    <dimen name="text_12_line_spacing">6dp</dimen>
+    <dimen name="text_14_line_spacing">7dp</dimen>
+    <dimen name="text_16_line_spacing">8dp</dimen>
+    <dimen name="text_18_line_spacing">10dp</dimen>
+    <dimen name="text_20_line_spacing">12dp</dimen>
+    <dimen name="text_24_line_spacing">14dp</dimen>
+
+    <!-- Image -->
+    <dimen name="image_x_large">98dp</dimen>
+    <dimen name="image_large">60dp</dimen>
+    <dimen name="image_median">45dp</dimen>
+    <dimen name="image_small">35dp</dimen>
+
+    <!-- Button -->
+    <dimen name="button_radius">2.5dp</dimen>
+    <dimen name="button_height">51dp</dimen>
+
+    <!-- EditText -->
+    <dimen name="edit_start_space">16dp</dimen>
+
+    <!-- Activity -->
+    <dimen name="splash_app_name">36dp</dimen>
+
+</resources>
